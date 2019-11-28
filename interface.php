@@ -11,11 +11,12 @@ ini_set('display_errors', 1);
  * Interface can extend multiple interfaces but not extends classes
  * You can define constructor in interface
  * Cannot create object of interface using new keyword
+ * In interface you can define constants and access them using InterfaceName::constant
  */
 
 /**
  * Problem defination
- * Solving problem of changin classes every time for log from database to file or file to database using interfaces
+ * Solving problem of changing classes every time for logging from database to file or file to database using interfaces
  */
 
 interface Logger{
