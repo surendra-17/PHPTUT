@@ -1,0 +1,8 @@
+1. What is interface
+2. Uses of Interface
+3. Give any practical example of interface
+4. Can we create the instance of interface?
+5. How to implement interface
+6. Can we define constant in interface
+7. 
+
